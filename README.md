@@ -2,7 +2,7 @@
 ## Student Management System
 Its a simple student management system using core php and mysql , where admin can create student and manage faculty and courses admin also can upload result of students and student can login using their roll no and password can change their password and profile ,student can view their detail in profile section and can able to access their result.
 
-##Here are some ss of this project
+## Here are some ss of this project
 ## Student Panel
 ![Screenshot (3)](https://user-images.githubusercontent.com/108226202/231738665-406f3160-9517-421c-bcde-bc5520ed25d8.png)
 ![Screenshot (5)](https://user-images.githubusercontent.com/108226202/231738698-285c37f7-3973-4341-9fa1-2037716c8284.png)
